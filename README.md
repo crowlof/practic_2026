@@ -13,4 +13,4 @@
 ## Установка и запуск
 
 Запустите Jupyter Notebook:
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook buffering_diagrams.ipynb
